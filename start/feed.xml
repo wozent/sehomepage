@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:93E23315-BA8A-424D-BB45-C5E9D19285D4</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-10-04T20:20:35-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:C3B1629E-ABA5-4851-B849-67F715AB8454</id>
+  <title>lecture.Notes</title>
+  <title xmlns="urn:iweb:">lecture.Notes</title>
+  <in-navbar xmlns="urn:iweb:">C3B1629E-ABA5-4851-B849-67F715AB8454</in-navbar>
+  <link rel="alternate" href="lecture.Notes.html"/>
+  <updated>2012-10-04T20:20:35.001-04:00</updated>
+  <content>lecture.Notes</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D55B7D1E-792A-49C2-9B3A-0E61FB1C92A6</id>
+  <title>cs137</title>
+  <title xmlns="urn:iweb:">cs137</title>
+  <in-navbar xmlns="urn:iweb:">D55B7D1E-792A-49C2-9B3A-0E61FB1C92A6</in-navbar>
+  <link rel="alternate" href="cs137.html"/>
+  <updated>2012-10-04T20:20:35.002-04:00</updated>
+  <content>cs137</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:35B315A9-C7FE-4472-8613-B0B5684175B5</id>
+  <title>se101</title>
+  <title xmlns="urn:iweb:">se101</title>
+  <in-navbar xmlns="urn:iweb:">35B315A9-C7FE-4472-8613-B0B5684175B5</in-navbar>
+  <link rel="alternate" href="se101.html"/>
+  <updated>2012-10-04T20:20:35.003-04:00</updated>
+  <content>se101</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6D202B94-8C3A-44AC-9E53-6CD82F8EC05C</id>
+  <title>math115</title>
+  <title xmlns="urn:iweb:">math115</title>
+  <in-navbar xmlns="urn:iweb:">6D202B94-8C3A-44AC-9E53-6CD82F8EC05C</in-navbar>
+  <link rel="alternate" href="math115.html"/>
+  <updated>2012-10-04T20:20:35.004-04:00</updated>
+  <content>math115</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AFFA81B8-2594-4DCD-A35D-57EFBCD1A35D</id>
+  <title>math117</title>
+  <title xmlns="urn:iweb:">math117</title>
+  <in-navbar xmlns="urn:iweb:">AFFA81B8-2594-4DCD-A35D-57EFBCD1A35D</in-navbar>
+  <link rel="alternate" href="math117.html"/>
+  <updated>2012-10-04T20:20:35.005-04:00</updated>
+  <content>math117</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EF1C974E-D5FD-4C12-9862-39A837DE4C7B</id>
+  <title>ece140</title>
+  <title xmlns="urn:iweb:">ece140</title>
+  <in-navbar xmlns="urn:iweb:">EF1C974E-D5FD-4C12-9862-39A837DE4C7B</in-navbar>
+  <link rel="alternate" href="ece140.html"/>
+  <updated>2012-10-04T20:20:35.006-04:00</updated>
+  <content>ece140</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9BAF472B-511B-46AF-8368-A996BEE91B45</id>
+  <title>ece105</title>
+  <title xmlns="urn:iweb:">ece105</title>
+  <in-navbar xmlns="urn:iweb:">9BAF472B-511B-46AF-8368-A996BEE91B45</in-navbar>
+  <link rel="alternate" href="ece105.html"/>
+  <updated>2012-10-04T20:20:35.007-04:00</updated>
+  <content>ece105</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:247EBAC3-2382-4099-9E05-4408BCDEE3F8</id>
+  <title>information</title>
+  <title xmlns="urn:iweb:">information</title>
+  <in-navbar xmlns="urn:iweb:">247EBAC3-2382-4099-9E05-4408BCDEE3F8</in-navbar>
+  <link rel="alternate" href="information.html"/>
+  <updated>2012-10-04T20:20:35.008-04:00</updated>
+  <content>information</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AEFF1905-93B6-44A6-8E77-299A63FB7261</id>
+  <title>assignment.Dates</title>
+  <title xmlns="urn:iweb:">assignment.Dates</title>
+  <in-navbar xmlns="urn:iweb:">AEFF1905-93B6-44A6-8E77-299A63FB7261</in-navbar>
+  <link rel="alternate" href="assignment.Dates.html"/>
+  <updated>2012-10-04T20:20:35.009-04:00</updated>
+  <content>assignment.Dates</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8516BA2F-866B-4472-849C-41461C0D4458</id>
+  <title>due</title>
+  <title xmlns="urn:iweb:">due</title>
+  <in-navbar xmlns="urn:iweb:">8516BA2F-866B-4472-849C-41461C0D4458</in-navbar>
+  <link rel="alternate" href="due.html"/>
+  <updated>2012-10-04T20:20:35.010-04:00</updated>
+  <content>due</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:292AB81F-FB0F-4A96-A627-521206D8BDB5</id>
+  <title>schedule</title>
+  <title xmlns="urn:iweb:">schedule</title>
+  <in-navbar xmlns="urn:iweb:">292AB81F-FB0F-4A96-A627-521206D8BDB5</in-navbar>
+  <link rel="alternate" href="schedule.html"/>
+  <updated>2012-10-04T20:20:35.011-04:00</updated>
+  <content>schedule</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DDE25200-F10B-42C8-864B-3A14FFA41BED</id>
+  <title>people</title>
+  <title xmlns="urn:iweb:">people</title>
+  <in-navbar xmlns="urn:iweb:">DDE25200-F10B-42C8-864B-3A14FFA41BED</in-navbar>
+  <link rel="alternate" href="people.html"/>
+  <updated>2012-10-04T20:20:35.012-04:00</updated>
+  <content>people</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:30D591D4-2C53-42E7-B461-8C19649272C1</id>
+  <title>about.Us</title>
+  <title xmlns="urn:iweb:">about.Us</title>
+  <in-navbar xmlns="urn:iweb:">30D591D4-2C53-42E7-B461-8C19649272C1</in-navbar>
+  <link rel="alternate" href="about.Us.html"/>
+  <updated>2012-10-04T20:20:35.013-04:00</updated>
+  <content>about.Us</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:065260DD-E5C2-45A1-BB8A-394219854F50</id>
+  <title>under.Construction</title>
+  <title xmlns="urn:iweb:">under.Construction</title>
+  <in-navbar xmlns="urn:iweb:">065260DD-E5C2-45A1-BB8A-394219854F50</in-navbar>
+  <link rel="alternate" href="under.Construction.html"/>
+  <updated>2012-10-04T20:20:35.014-04:00</updated>
+  <content>under.Construction</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C05EECE2-4026-4401-BF01-5A02000DA8AE</id>
+  <title>error.404</title>
+  <title xmlns="urn:iweb:">error.404</title>
+  <in-navbar xmlns="urn:iweb:">C05EECE2-4026-4401-BF01-5A02000DA8AE</in-navbar>
+  <link rel="alternate" href="error.404.html"/>
+  <updated>2012-10-04T20:20:35.015-04:00</updated>
+  <content>error.404</content>
+ </entry>
+</feed>
